@@ -1,0 +1,21 @@
+{
+  "id": "CHR-0001",
+  "type": "CHR",
+  "category": "charger",
+  "manufacturer": "DeWALT",
+  "model": null,
+  "name": "DeWALT charger",
+  "status": "active",
+  "system_id": "SYS-0001",
+  "quantity": 1,
+  "confirmed": true,
+  "relations": {
+    "compatible_batteries": [
+      "BAT-0001",
+      "BAT-0002",
+      "BAT-0003",
+      "BAT-0004"
+    ]
+  },
+  "notes": "Підтверджено 1 шт. Модель зарядки не підтверджена."
+}
