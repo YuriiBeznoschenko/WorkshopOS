@@ -10,5 +10,8 @@
 | TOOL-0006 | Dremel 398 | [dremel-398.md](dremel-398.md) |
 | TOOL-0007 | Milwaukee M12 SL | [milwaukee-m12-sl.md](milwaukee-m12-sl.md) |
 | TOOL-0008 | Kärcher NT30 | [karcher-nt30.md](karcher-nt30.md) |
-| TOOL-0009 | Циклон для пилососа | [cyclone.md](cyclone.md) |
 | TOOL-0010 | ATOM i180 MIG/MAG | [atom-i180-mig-mag.md](atom-i180-mig-mag.md) |
+
+## Не інструменти
+
+- DeWALT Cyclone перенесено в `inventory/dust-collection/dewalt-cyclone.md` як DUST-0001.
