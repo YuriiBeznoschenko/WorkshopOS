@@ -1,0 +1,21 @@
+{
+  "id": "TOOL-0004",
+  "type": "TOOL",
+  "category": "work_light",
+  "manufacturer": "Milwaukee",
+  "model": "M12 SL",
+  "name": "Milwaukee M12 SL",
+  "status": "active",
+  "system_id": "SYS-0002",
+  "confirmed": true,
+  "confirmation": "Фото + підтвердження користувача.",
+  "purchase": {
+    "date": null,
+    "price_uah": null,
+    "source": null
+  },
+  "relations": {
+    "compatible_batteries": []
+  },
+  "notes": "Акумуляторний ліхтар / робоче світло."
+}
