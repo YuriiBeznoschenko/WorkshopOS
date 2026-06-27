@@ -1,0 +1,22 @@
+{
+  "id": "MACH-0001",
+  "type": "MACH",
+  "category": "table_saw",
+  "manufacturer": "DeWALT",
+  "model": "DWE7492",
+  "name": "DeWALT DWE7492",
+  "status": "active",
+  "system_id": null,
+  "confirmed": true,
+  "confirmation": "Користувач підтвердив: 'Пила настільна мережева DeWALT DWE7492 - Є!'",
+  "purchase": {
+    "date": null,
+    "price_uah": null,
+    "source": null
+  },
+  "relations": {
+    "compatible_accessories": [],
+    "dust_collection": []
+  },
+  "notes": "Настільна мережева пила. Не плутати з DWE7485 / DW745."
+}
