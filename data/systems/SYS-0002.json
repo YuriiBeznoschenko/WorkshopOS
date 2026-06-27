@@ -1,0 +1,8 @@
+{
+  "id": "SYS-0002",
+  "type": "SYS",
+  "name": "Milwaukee M12",
+  "manufacturer": "Milwaukee",
+  "status": "active",
+  "notes": "Підтверджено наявність інструмента Milwaukee M12 SL."
+}
