@@ -1,0 +1,24 @@
+{
+  "id": "MACH-0004",
+  "type": "MACH",
+  "category": "vacuum_extractor",
+  "manufacturer": "Kärcher",
+  "model": "NT30",
+  "name": "Kärcher NT30",
+  "status": "active",
+  "system_id": null,
+  "confirmed": true,
+  "confirmation": "Підтверджено користувачем у списку інструментів.",
+  "purchase": {
+    "date": null,
+    "price_uah": null,
+    "source": null
+  },
+  "relations": {
+    "compatible_accessories": [],
+    "dust_collection": [
+      "DC-0001"
+    ]
+  },
+  "notes": "Пилосос вважається MACH згідно з підтвердженою архітектурою."
+}
