@@ -1,0 +1,22 @@
+{
+  "id": "MACH-0002",
+  "type": "MACH",
+  "category": "thickness_planer",
+  "manufacturer": "DeWALT",
+  "model": "DW733",
+  "name": "DeWALT DW733",
+  "status": "active",
+  "system_id": null,
+  "confirmed": true,
+  "confirmation": "Підтверджено користувачем у списку інструментів.",
+  "purchase": {
+    "date": null,
+    "price_uah": null,
+    "source": null
+  },
+  "relations": {
+    "compatible_accessories": [],
+    "dust_collection": []
+  },
+  "notes": "Рейсмус."
+}
