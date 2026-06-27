@@ -1,0 +1,18 @@
+{
+  "id": "BAT-0002",
+  "type": "BAT",
+  "category": "battery",
+  "manufacturer": "DeWALT",
+  "model": "DCB184",
+  "name": "DeWALT DCB184 5Ah",
+  "status": "active",
+  "system_id": "SYS-0001",
+  "quantity": 1,
+  "confirmed": true,
+  "relations": {
+    "compatible_chargers": [
+      "CHR-0001"
+    ]
+  },
+  "notes": "Підтверджено 1 шт."
+}
