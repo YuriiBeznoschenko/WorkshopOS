@@ -1,0 +1,13 @@
+{
+  "id": "TOOL-0007",
+  "type": "TOOL",
+  "category": "plunge_saw",
+  "manufacturer": "Einhell",
+  "model": "TE-PS 165",
+  "name": "Einhell TE-PS 165",
+  "status": "active",
+  "system_id": null,
+  "confirmed": true,
+  "power_w": 1200,
+  "blade_diameter_mm": 165
+}
