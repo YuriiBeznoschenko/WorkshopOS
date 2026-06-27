@@ -1,0 +1,18 @@
+{
+  "id": "BAT-0003",
+  "type": "BAT",
+  "category": "battery",
+  "manufacturer": "unknown_aftermarket",
+  "model": "8Ah DeWALT-compatible",
+  "name": "DeWALT-compatible 8Ah aftermarket battery",
+  "status": "active",
+  "system_id": "SYS-0001",
+  "quantity": 2,
+  "confirmed": true,
+  "relations": {
+    "compatible_chargers": [
+      "CHR-0001"
+    ]
+  },
+  "notes": "Неоригінальні 8Ah, підтверджено 2 шт."
+}
