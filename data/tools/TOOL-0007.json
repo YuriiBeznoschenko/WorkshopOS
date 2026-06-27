@@ -5,9 +5,8 @@
   "manufacturer": "Einhell",
   "model": "TE-PS 165",
   "name": "Einhell TE-PS 165",
+  "display_name": "Einhell TE-PS 165 — заглибна пила",
   "status": "active",
   "system_id": null,
-  "confirmed": true,
-  "power_w": 1200,
-  "blade_diameter_mm": 165
+  "confirmed": true
 }
