@@ -3,8 +3,9 @@
   "type": "TOOL",
   "category": "polisher",
   "manufacturer": "Einhell",
-  "model": "CC-PO 1100/1E",
-  "name": "Einhell CC-PO 1100/1E",
+  "model": "CC-PO 1100 1E",
+  "name": "Einhell CC-PO 1100 1E",
+  "display_name": "Einhell CC-PO 1100 1E — полірувальна машина",
   "status": "active",
   "system_id": null,
   "confirmed": true
