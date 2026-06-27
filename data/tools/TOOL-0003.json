@@ -1,0 +1,21 @@
+{
+  "id": "TOOL-0003",
+  "type": "TOOL",
+  "category": "rotary_tool",
+  "manufacturer": "Dremel",
+  "model": "398",
+  "name": "Dremel 398",
+  "status": "active",
+  "system_id": null,
+  "confirmed": true,
+  "confirmation": "Фото + підтвердження користувача.",
+  "purchase": {
+    "date": null,
+    "price_uah": null,
+    "source": null
+  },
+  "relations": {
+    "compatible_accessories": []
+  },
+  "notes": "Провідний роторний інструмент, 140W."
+}
