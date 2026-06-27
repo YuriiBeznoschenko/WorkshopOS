@@ -1,0 +1,12 @@
+{
+  "id": "TOOL-0006",
+  "type": "TOOL",
+  "category": "driver",
+  "manufacturer": "Einhell",
+  "model": "TE-CI 18 Li",
+  "name": "Einhell TE-CI 18 Li",
+  "display_name": "Einhell TE-CI 18 Li — акумуляторний ударний шурупокрут",
+  "status": "active",
+  "system_id": "SYS-0003",
+  "confirmed": true
+}
