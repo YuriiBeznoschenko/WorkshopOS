@@ -1,0 +1,11 @@
+{
+  "id": "TOOL-0010",
+  "type": "TOOL",
+  "category": "multitool",
+  "manufacturer": "Bosch",
+  "model": "PMF 180 E",
+  "name": "Bosch PMF 180 E",
+  "status": "active",
+  "system_id": null,
+  "confirmed": true
+}
