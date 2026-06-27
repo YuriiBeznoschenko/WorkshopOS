@@ -1,34 +1,13 @@
 {
   "schema_version": 2,
   "objects": {
-    "systems": [
-      "SYS-0001",
-      "SYS-0002",
-      "SYS-0003"
-    ],
-    "machines": [
-      "MACH-0001",
-      "MACH-0002",
-      "MACH-0003",
-      "MACH-0004"
-    ],
-    "tools": [
-      "TOOL-0001",
-      "TOOL-0002",
-      "TOOL-0003",
-      "TOOL-0004"
-    ],
-    "batteries": [
-      "BAT-0001",
-      "BAT-0002",
-      "BAT-0003",
-      "BAT-0004"
-    ],
-    "chargers": [
-      "CHR-0001"
-    ],
-    "dust_collection": [
-      "DC-0001"
-    ]
+    "systems": ["SYS-0001", "SYS-0002", "SYS-0003"],
+    "machines": ["MACH-0001", "MACH-0002", "MACH-0003", "MACH-0004", "MACH-0005"],
+    "tools": ["TOOL-0001", "TOOL-0002", "TOOL-0003", "TOOL-0004", "TOOL-0005", "TOOL-0007", "TOOL-0009", "TOOL-0010", "TOOL-0011"],
+    "measuring": ["MEAS-0001"],
+    "accessories": ["ACC-0001"],
+    "batteries": ["BAT-0002", "BAT-0003", "BAT-0004", "BAT-0005"],
+    "chargers": ["CHR-0001"],
+    "dust_collection": ["DC-0001"]
   }
 }
