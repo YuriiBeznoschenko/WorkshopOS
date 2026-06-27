@@ -1,0 +1,18 @@
+{
+  "id": "DC-0001",
+  "type": "DC",
+  "category": "cyclone",
+  "manufacturer": "DeWALT",
+  "model": null,
+  "name": "DeWALT Cyclone",
+  "status": "active",
+  "confirmed": true,
+  "confirmation": "Користувач уточнив: циклон — DeWALT.",
+  "relations": {
+    "compatible_tools": [],
+    "compatible_machines": [
+      "MACH-0004"
+    ]
+  },
+  "notes": "Це компонент пиловидалення DC, не TOOL і не MACH."
+}
