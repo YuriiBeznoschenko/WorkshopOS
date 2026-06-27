@@ -1,0 +1,12 @@
+{
+  "id": "TOOL-0008",
+  "type": "TOOL",
+  "category": "power_tool",
+  "manufacturer": "Milwaukee",
+  "model": "M12 BDD",
+  "name": "Milwaukee M12 BDD",
+  "display_name": "Milwaukee M12 BDD — акумуляторний шурупокрут",
+  "status": "active",
+  "system_id": "SYS-0002",
+  "confirmed": true
+}
