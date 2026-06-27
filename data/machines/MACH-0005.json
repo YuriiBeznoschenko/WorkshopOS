@@ -1,0 +1,10 @@
+{
+  "id": "MACH-0005",
+  "type": "MACH",
+  "category": "machine",
+  "manufacturer": "ATOM",
+  "model": "i180",
+  "name": "ATOM i180",
+  "status": "active",
+  "confirmed": true
+}
