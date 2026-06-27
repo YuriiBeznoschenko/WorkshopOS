@@ -1,0 +1,22 @@
+{
+  "id": "MACH-0003",
+  "type": "MACH",
+  "category": "tile_saw",
+  "manufacturer": "DeWALT",
+  "model": "D24000",
+  "name": "DeWALT D24000",
+  "status": "active",
+  "system_id": null,
+  "confirmed": true,
+  "confirmation": "Підтверджено користувачем у списку інструментів.",
+  "purchase": {
+    "date": null,
+    "price_uah": 15000,
+    "source": null
+  },
+  "relations": {
+    "compatible_accessories": [],
+    "dust_collection": []
+  },
+  "notes": "Плиткоріз. Б/в. Були питання по направляючому столу / підшипниках. Використовувався диск Distar 7D 250 мм."
+}
