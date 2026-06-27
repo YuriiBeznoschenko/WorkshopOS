@@ -1,0 +1,14 @@
+{
+  "name": "WorkshopOS",
+  "schema_version": 2,
+  "status": "active",
+  "source_of_truth": "data/",
+  "created_by": "ChatGPT",
+  "rules": [
+    "GitHub is the source of truth for workshop inventory.",
+    "Only confirmed items are added.",
+    "No assumptions about model, price, condition, or accessories.",
+    "JSON stores structured data; Markdown stores human notes and documentation.",
+    "Relationships are stored by stable IDs only."
+  ]
+}
