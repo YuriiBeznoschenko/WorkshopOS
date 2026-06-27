@@ -5,17 +5,12 @@
   "manufacturer": "Milwaukee",
   "model": "M12 SL",
   "name": "Milwaukee M12 SL",
+  "display_name": "Milwaukee M12 SL — акумуляторний робочий ліхтар",
   "status": "active",
   "system_id": "SYS-0002",
   "confirmed": true,
   "confirmation": "Фото + підтвердження користувача.",
-  "purchase": {
-    "date": null,
-    "price_uah": null,
-    "source": null
-  },
-  "relations": {
-    "compatible_batteries": []
-  },
+  "purchase": {"date": null, "price_uah": null, "source": null},
+  "relations": {"compatible_batteries": []},
   "notes": "Акумуляторний ліхтар / робоче світло."
 }
