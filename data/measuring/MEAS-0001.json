@@ -1,0 +1,10 @@
+{
+  "id": "MEAS-0001",
+  "type": "MEAS",
+  "category": "laser_level",
+  "manufacturer": "Bosch Professional",
+  "model": "GCL 2-50 + LR 6",
+  "name": "Bosch Professional GCL 2-50 + LR 6",
+  "status": "active",
+  "confirmed": true
+}
