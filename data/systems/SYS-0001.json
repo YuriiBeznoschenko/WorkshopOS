@@ -1,0 +1,8 @@
+{
+  "id": "SYS-0001",
+  "type": "SYS",
+  "name": "DeWALT XR / FlexVolt",
+  "manufacturer": "DeWALT",
+  "status": "active",
+  "notes": "Основна DeWALT 18V система; є FlexVolt батарея DCB609 9Ah."
+}
