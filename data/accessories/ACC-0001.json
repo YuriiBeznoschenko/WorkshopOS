@@ -1,0 +1,22 @@
+{
+  "id": "ACC-0001",
+  "type": "ACC",
+  "category": "diamond_blade",
+  "manufacturer": "Distar",
+  "model": "7D",
+  "name": "Distar 7D 250 мм",
+  "status": "active",
+  "confirmed": true,
+  "dimensions": {
+    "diameter_mm": 250
+  },
+  "relations": {
+    "compatible_machines": [
+      "MACH-0003"
+    ],
+    "installed_on": [
+      "MACH-0003"
+    ]
+  },
+  "notes": "Новий диск встановлено на DeWALT D24000 замість зношеного Distar 7D 250 мм."
+}
