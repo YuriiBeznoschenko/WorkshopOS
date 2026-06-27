@@ -5,23 +5,12 @@
   "manufacturer": "DeWALT",
   "model": "DCE530",
   "name": "DeWALT DCE530",
+  "display_name": "DeWALT DCE530 — акумуляторний термофен",
   "status": "active",
   "system_id": "SYS-0001",
   "confirmed": true,
   "confirmation": "Фото + виправлення користувача: це термофен.",
-  "purchase": {
-    "date": null,
-    "price_uah": null,
-    "source": null
-  },
-  "relations": {
-    "compatible_batteries": [
-      "BAT-0001",
-      "BAT-0002",
-      "BAT-0003",
-      "BAT-0004"
-    ],
-    "compatible_accessories": []
-  },
+  "purchase": {"date": null, "price_uah": null, "source": null},
+  "relations": {"compatible_batteries": ["BAT-0001", "BAT-0002", "BAT-0003", "BAT-0004"], "compatible_accessories": []},
   "notes": "Не називати імпактом / шурупокрутом."
 }
