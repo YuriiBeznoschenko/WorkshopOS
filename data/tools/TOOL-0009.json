@@ -1,0 +1,11 @@
+{
+  "id": "TOOL-0009",
+  "type": "TOOL",
+  "category": "rotary_hammer",
+  "manufacturer": "Bosch",
+  "model": "PBH 2000 RE",
+  "name": "Bosch PBH 2000 RE",
+  "status": "active",
+  "system_id": null,
+  "confirmed": true
+}
