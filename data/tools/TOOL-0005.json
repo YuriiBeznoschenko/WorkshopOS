@@ -1,0 +1,11 @@
+{
+  "id": "TOOL-0005",
+  "type": "TOOL",
+  "category": "garden_tool",
+  "manufacturer": "Einhell",
+  "model": "GE-CG 18 Li",
+  "name": "Einhell GE-CG 18 Li",
+  "status": "active",
+  "system_id": "SYS-0003",
+  "confirmed": true
+}
