@@ -1,0 +1,27 @@
+{
+  "id": "TOOL-0001",
+  "type": "TOOL",
+  "category": "angle_grinder",
+  "manufacturer": "DeWALT",
+  "model": "DCG418",
+  "name": "DeWALT DCG418",
+  "status": "active",
+  "system_id": "SYS-0001",
+  "confirmed": true,
+  "confirmation": "Користувач підтвердив покупку.",
+  "purchase": {
+    "date": null,
+    "price_uah": 10000,
+    "source": null
+  },
+  "relations": {
+    "compatible_batteries": [
+      "BAT-0001",
+      "BAT-0002",
+      "BAT-0003",
+      "BAT-0004"
+    ],
+    "compatible_accessories": []
+  },
+  "notes": "Акумуляторна болгарка. Не плутати з DCG416 / DCG408."
+}
