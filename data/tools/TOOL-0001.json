@@ -1,12 +1,14 @@
 {
   "id": "TOOL-0001",
   "type": "TOOL",
-  "category": "tool",
+  "category": "angle_grinder",
   "manufacturer": "DeWALT",
   "model": "DCG418",
   "name": "DeWALT DCG418",
-  "display_name": "DeWALT DCG418",
+  "display_name": "DeWALT DCG418 — акумуляторна КШМ 125 мм FlexVolt",
+  "description": "Акумуляторна кутова шліфувальна машина DeWALT DCG418 для дисків 125 мм. Працює від DeWALT FlexVolt / 18V XR системи.",
   "status": "active",
   "system_id": "SYS-0001",
-  "confirmed": true
+  "confirmed": true,
+  "notes": "КШМ. Куплена користувачем. Не плутати з DCG416 / DCG413 / DCG408."
 }
