@@ -5,8 +5,10 @@
   "manufacturer": "Einhell",
   "model": "TE-PS 165",
   "name": "Einhell TE-PS 165",
-  "display_name": "Einhell TE-PS 165 — заглибна пила",
+  "display_name": "Einhell TE-PS 165 — заглибна циркулярна пила",
+  "description": "Заглибна циркулярна пила Einhell TE-PS 165 для рівного розкрою листових матеріалів та роботи з направляючою.",
   "status": "active",
   "system_id": null,
-  "confirmed": true
+  "confirmed": true,
+  "notes": "Мережева / заглибна пила."
 }
