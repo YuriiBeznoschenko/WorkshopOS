@@ -1,12 +1,14 @@
 {
   "id": "TOOL-0010",
   "type": "TOOL",
-  "category": "multitool",
+  "category": "oscillating_multitool",
   "manufacturer": "Bosch",
   "model": "PMF 180 E",
   "name": "Bosch PMF 180 E",
-  "display_name": "Bosch PMF 180 E — мережевий мультитул",
+  "display_name": "Bosch PMF 180 E — мережевий осциляційний мультитул",
+  "description": "Мережевий осциляційний мультитул Bosch PMF 180 E для шліфування, підрізання матеріалів та дрібних монтажних робіт.",
   "status": "active",
   "system_id": null,
-  "confirmed": true
+  "confirmed": true,
+  "notes": "Мережевий мультитул."
 }
