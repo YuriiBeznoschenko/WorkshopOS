@@ -7,7 +7,7 @@
     "measuring": ["MEAS-0001"],
     "accessories": ["ACC-0001"],
     "batteries": ["BAT-0002", "BAT-0003", "BAT-0004", "BAT-0005"],
-    "chargers": ["CHR-0001"],
+    "chargers": ["CHR-0001", "CHR-0002"],
     "dust_collection": ["DC-0001"]
   }
 }
