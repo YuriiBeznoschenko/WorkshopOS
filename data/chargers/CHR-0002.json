@@ -1,0 +1,19 @@
+{
+  "id": "CHR-0002",
+  "type": "CHR",
+  "category": "charger",
+  "manufacturer": "Einhell",
+  "model": "Power X-Change charger — model not confirmed",
+  "name": "Einhell Power X-Change charger",
+  "status": "active",
+  "system_id": "SYS-0003",
+  "quantity": 1,
+  "confirmed": true,
+  "confirmation": "Користувач уточнив: зарядка 1; батарей 7.",
+  "relations": {
+    "compatible_batteries": [
+      "BAT-0005"
+    ]
+  },
+  "notes": "Модель зарядки не підтверджена."
+}
