@@ -1,0 +1,19 @@
+{
+  "id": "BAT-0005",
+  "type": "BAT",
+  "category": "battery",
+  "manufacturer": "Einhell",
+  "model": "Power X-Change battery — model not confirmed",
+  "name": "Einhell Power X-Change battery pack",
+  "status": "active",
+  "system_id": "SYS-0003",
+  "quantity": 7,
+  "confirmed": true,
+  "confirmation": "Користувач уточнив: всі батареї однакові; зарядка 1; батарей 7.",
+  "relations": {
+    "compatible_chargers": [
+      "CHR-0002"
+    ]
+  },
+  "notes": "Модель / ємність не підтверджена. Не вигадувати Ah без фото або підтвердження."
+}
