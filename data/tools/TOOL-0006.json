@@ -1,12 +1,14 @@
 {
   "id": "TOOL-0006",
   "type": "TOOL",
-  "category": "driver",
+  "category": "impact_driver",
   "manufacturer": "Einhell",
   "model": "TE-CI 18 Li",
   "name": "Einhell TE-CI 18 Li",
   "display_name": "Einhell TE-CI 18 Li — акумуляторний ударний шурупокрут",
+  "description": "Акумуляторний ударний шурупокрут Einhell TE-CI 18 Li для закручування саморізів, гвинтів та роботи з кріпленням.",
   "status": "active",
   "system_id": "SYS-0003",
-  "confirmed": true
+  "confirmed": true,
+  "notes": "Система Einhell Power X-Change."
 }
