@@ -1,12 +1,14 @@
 {
   "id": "TOOL-0005",
   "type": "TOOL",
-  "category": "garden_tool",
+  "category": "garden_shears",
   "manufacturer": "Einhell",
   "model": "GE-CG 18 Li",
   "name": "Einhell GE-CG 18 Li",
   "display_name": "Einhell GE-CG 18 Li — акумуляторні ножиці для трави та кущів",
+  "description": "Акумуляторні садові ножиці Einhell GE-CG 18 Li для підрізання трави, кромок газону та дрібних кущів.",
   "status": "active",
   "system_id": "SYS-0003",
-  "confirmed": true
+  "confirmed": true,
+  "notes": "Система Einhell Power X-Change."
 }
