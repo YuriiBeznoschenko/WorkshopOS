@@ -6,7 +6,9 @@
   "model": "PBH 2000 RE",
   "name": "Bosch PBH 2000 RE",
   "display_name": "Bosch PBH 2000 RE — перфоратор SDS-Plus",
+  "description": "Перфоратор Bosch PBH 2000 RE SDS-Plus для свердління бетону, цегли та роботи з ударом.",
   "status": "active",
   "system_id": null,
-  "confirmed": true
+  "confirmed": true,
+  "notes": "Мережевий перфоратор SDS-Plus."
 }
