@@ -6,7 +6,9 @@
   "model": "CC-PO 1100 1E",
   "name": "Einhell CC-PO 1100 1E",
   "display_name": "Einhell CC-PO 1100 1E — полірувальна машина",
+  "description": "Мережева полірувальна машина Einhell CC-PO 1100 1E для полірування поверхонь та роботи з полірувальними кругами.",
   "status": "active",
   "system_id": null,
-  "confirmed": true
+  "confirmed": true,
+  "notes": "Полірувальна машина."
 }
