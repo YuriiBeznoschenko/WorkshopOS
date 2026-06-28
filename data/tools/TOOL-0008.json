@@ -1,12 +1,14 @@
 {
   "id": "TOOL-0008",
   "type": "TOOL",
-  "category": "power_tool",
+  "category": "drill_driver",
   "manufacturer": "Milwaukee",
   "model": "M12 BDD",
   "name": "Milwaukee M12 BDD",
-  "display_name": "Milwaukee M12 BDD — акумуляторний шурупокрут",
+  "display_name": "Milwaukee M12 BDD — акумуляторний дриль-шурупокрут 12V",
+  "description": "Компактний акумуляторний дриль-шурупокрут Milwaukee M12 BDD для свердління та закручування кріплення.",
   "status": "active",
   "system_id": "SYS-0002",
-  "confirmed": true
+  "confirmed": true,
+  "notes": "Система Milwaukee M12."
 }
